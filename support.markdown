@@ -1,0 +1,12 @@
+---
+layout: default
+title: Support
+---
+
+# We’d love to hear from you.
+
+For technical support, bugs, or new feature ideas, please email support@periodicapps.atlassian.net.
+
+Visit our help center for answers to common questions.
+
+We’re also on Instagram.
