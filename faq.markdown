@@ -89,3 +89,7 @@ Many blocks’ textures have more than one texture state. For example, the Wood 
 
 In all cases, texture states can be accessed while editing an individual texture. For textures that do have multiple states there are three additional buttons located just above the pixel canvas. The left and right arrow buttons make it possible to sequentially traverse the various states. The middle button displays the name of the current texture state. Tapping it brings up a list to select another texture state.
 
+## Something isn't working or the app is crashing. How do I report a problem? 😱
+
+Please reach out to help@periodicapps.com with details about what you were doing when it crashed or behaved unexpectedly and we'll do our best fix it.
+
