@@ -7,13 +7,13 @@ title: Frequently Asked Questions
 
 ## Who is this app for?
 
-Resourceful is for people of any age who want to change the way Minecraft looks. 
+Resourceful is for people of any age who want to change the way Minecraft looks.
 
-**Parents:** if your kids have been asking you daily to help them make their own “texture pack”, this app is for you. 
+**Parents:** if your kids have been asking you daily to help them make their own “texture pack”, this app is for you.
 
 **Kids:** if you don’t have access to a PC or lack experience working with all the technologies required to make texture packs, this app is for you.
 
-Even if you don’t own Minecraft, Resourceful is also a fun toy art app. Who doesn’t need more art in their lives?n text goes here
+Even if you don’t own Minecraft, Resourceful is also a fun toy art app. Who doesn’t need more art in their lives?
 
 ## I just installed the app. Where are all the standard vanilla Minecraft blocks!?
 
@@ -93,3 +93,4 @@ In all cases, texture states can be accessed while editing an individual texture
 
 Please reach out to help@periodicapps.com with details about what you were doing when it crashed or behaved unexpectedly and we'll do our best fix it.
 
+Relatedly, did you see an image that looks like this: ![missing.png](/assets/images/missing.png) ? This is likely a bug and it would be very helpful if you'd be willing to share information about it with us.
